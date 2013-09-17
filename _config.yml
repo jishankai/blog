@@ -1,3 +1,4 @@
+baseurl: ./
 destination: ./_site
 auto:        true
 lsi:         false
